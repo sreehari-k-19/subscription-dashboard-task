@@ -195,7 +195,7 @@ subscription-dashboard-task/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/subscription-dashboard-task.git
+git clone https://github.com/sreehari-k-19/subscription-dashboard-task.git
 cd subscription-dashboard-task
 ```
 
